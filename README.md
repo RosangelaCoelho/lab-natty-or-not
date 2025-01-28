@@ -13,7 +13,8 @@ e-book sobre as principais características da linguagem de programação Python
 trouxe um bom resultado.
 
 ## 🚀 Resultados
-O e-book criado está salvo no arquivo Ebook Python.
+O e-book criado está salvo neste github no arquivo Ebook Python.txt (https://github.com/RosangelaCoelho/lab-natty-or-not/blob/main/Ebook%20Python.txt)
+
 
 ## 💭 Reflexão
 Foi bem interessante testar e perceber que nem sempre vamos conseguir da IA o que queremos no primeiro momento, mas podemos ir reformulando
